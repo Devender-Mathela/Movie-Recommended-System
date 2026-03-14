@@ -1,0 +1,7 @@
+# Ignore Python virtual environment
+.venv/
+
+# Ignore JetBrains IDE project settings
+.idea/
+
+*.pkl
