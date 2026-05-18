@@ -110,7 +110,6 @@ Uses NLP techniques for better matching
 Improved understanding of recommendation systems
 📸 Screenshots
 
-Add screenshots here:
 
 Home Page
 ![Home Page](assets/home.png)
